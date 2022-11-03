@@ -3,4 +3,4 @@ module_name:
 
 _subdirectory: copier-template
 
-_answers_file: .copier-answers-copier-template.yml
+_answers_file: .copier-answers-copier-template-{{module_name}}.yml
