@@ -1,0 +1,6 @@
+module_name:
+  type: str
+
+_subdirectory: copier-template
+
+_answers_file: .copier-answers-copier-template.yml
